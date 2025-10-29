@@ -1,0 +1,42 @@
+# --- Core ---
+python-dotenv
+requests
+pandas
+numpy
+tqdm
+scikit-learn
+
+# --- Streamlit Frontend ---
+streamlit
+streamlit-option-menu
+
+# --- LLM & Embeddings ---
+langchain
+langchain-community
+langchain-core>=0.1.0
+langchain-openai
+langchain-google-genai
+chromadb
+faiss-cpu
+
+# --- Model APIs ---
+openai
+google-generativeai
+
+# --- Data Processing & Storage ---
+SQLAlchemy
+sqlite-utils
+
+# --- Utilities ---
+pydantic
+tenacity
+lxml
+
+# --- Optional  ---
+ipykernel
+jupyter
+ipywidgets
+langsmith
+plotly
+matplotlib
+seaborn
