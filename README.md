@@ -2,6 +2,11 @@
 
 An intelligent Real Estate AI Assistant powered by Retrieval-Augmented Generation (RAG) using Google's Gemini AI, LangChain, and FAISS vector database.
 
+# its video demo link 
+
+https://drive.google.com/file/d/1bPgdx2YVzpsqA1L_wZyj5MQ0FBBUTjYO/view?usp=sharing
+
+
 ## 📋 Overview
 
 This project implements a conversational AI assistant that helps users find real estate properties based on natural language queries. It uses advanced embedding techniques and semantic search to match user requirements with available properties in the database.
